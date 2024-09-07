@@ -240,8 +240,14 @@ newman run batch25.postman_collection.json -e batch25.postman_environment.json -
 ## Newman Report Summary:
 ![image](https://github.com/user-attachments/assets/a8b10b2c-2ad0-4869-80ab-4b61f3ad3a77)
 
-![Newman Report Summary](https://github.com/ebrahimhossaincse/Automated-Testing-of-Rest-Booking-API-with-Newman-Report/assets/152195690/c1680ef6-adc1-4f95-87c5-55a6df798eee)
-![image](https://github.com/ebrahimhossaincse/Automated-Testing-of-Rest-Booking-API-with-Newman-Report/assets/152195690/0e011c95-b3d2-46e1-952b-07938ee0bfa8)
-![Newman Report Summary](https://github.com/ebrahimhossaincse/Automated-Testing-of-Rest-Booking-API-with-Newman-Report/assets/152195690/e5ae708d-6be9-45e8-8996-06a817f13e9d)
+![image](https://github.com/user-attachments/assets/a550990a-0b8c-4cde-b6e5-a3f685beea4d)
+
+![image](https://github.com/user-attachments/assets/def624d2-2d8a-441d-b278-75447ebb33cb)
+
+![image](https://github.com/user-attachments/assets/c714f54c-428f-49f2-8d4e-c581c593c627)
+![image](https://github.com/user-attachments/assets/02f86f81-e6f7-4c88-b593-73d844012330)
+![image](https://github.com/user-attachments/assets/150832bd-3e67-4b31-bc83-a3c127fc6051)
+
+
 
     
