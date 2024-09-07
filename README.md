@@ -28,7 +28,7 @@ This project demonstrates API testing using Postman, providing a collection of t
 1. Postman: If you haven't already, [download and install Postman.](https://www.postman.com/downloads/)
 2. Clone the repository:
  ```console 
-  git clone https://github.com/ebrahimhossaincse/Automated-Testing-of-Rest-Booking-API-with-Newman-Report.git
+  git clone https://github.com/sadiajerin/API-testing-with-postman.git
 ```
 3. Import the Postman collection:
     - Open Postman.
